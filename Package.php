@@ -3,8 +3,6 @@ $menu = "package";
 $is_package_form = true;
 	include("header.php");
 	$package = new Package();
-	
-	
 	?>
 	<section class="banner-rs-bottom py-lg-5 py-3">
 		<?php ?>
