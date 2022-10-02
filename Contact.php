@@ -16,7 +16,6 @@ if(isset($_POST['send_email'])){
 		$messageConfirm = "Message Sent";
 	}else{
 		$messageConfirm = "Email can't sent.";
-
 	}
 	
 }
@@ -48,7 +47,7 @@ if(isset($_POST['send_email'])){
 						<div class="col-md-9 address-right text-left">
 							<h6>Email</h6>
 							<p>
-								<a href="mailto:example@email.com"> mdarikrayhan@gmail.com.com</a>
+								<a href="mailto:example@email.com"> mdarikrayhan@gmail.com</a>
 
 							</p>
 						</div>
