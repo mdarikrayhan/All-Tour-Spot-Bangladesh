@@ -1,5 +1,5 @@
 <!-- footer -->
-		<div class="footer-cpy p-lg-4 p-md-3 p-3 container-fluid">
+<div class="footer-cpy p-lg-4 p-md-3 p-3 container-fluid">
 			<div class="row">
 				<div class="col-lg-6 copyrightbottom text-left">
 					<h3>

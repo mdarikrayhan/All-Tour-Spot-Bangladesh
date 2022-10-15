@@ -3,6 +3,10 @@ $menu = "package";
 $is_package_form = true;
 	include("header.php");
 	$package = new Package();
+	/*$packageVeriations = array();
+	$packageVeriations[] = new PackageRow("Basic","350","Basic details",["Text Dummy 1","Text Dummy 2","Text Dummy 3"]);
+	$package->addPackage(20,30,10,$packageVeriations);*/
+	
 	?>
 	<section class="banner-rs-bottom py-lg-5 py-3">
 		<?php ?>
