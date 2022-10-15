@@ -22,7 +22,9 @@ while ($row = $restaurant->fetch_assoc()) {
 	$gmap = $row['gmap'];
 	$thumbnail = $row['thumbnail'];
 	$phone = $row['phone'];
+	$email = $row['email'];
 	$division = $row['division'];
+	
 }
 	?>
 <section class="banner-w3layouts-bottom py-lg-5 py-3">
@@ -59,6 +61,8 @@ while ($row = $restaurant->fetch_assoc()) {
 							<p><?php echo $address; ?></p>
 							<h4 class="title">Phone</h4>
 							<p><?php echo $phone; ?></p>
+							<h4 class="title">Email</h4>
+							<p><?php echo $email; ?></p>
 							<h4 class="title">Division</h4>
 							<p><?php echo $division; ?></p>
 						</div>
