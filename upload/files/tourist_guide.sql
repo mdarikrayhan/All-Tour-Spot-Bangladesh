@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Oct 22, 2022 at 08:02 PM
+-- Generation Time: Oct 22, 2022 at 08:50 PM
 -- Server version: 10.4.17-MariaDB
 -- PHP Version: 8.0.0
 
@@ -109,15 +109,10 @@ CREATE TABLE `package` (
 --
 
 INSERT INTO `package` (`id`, `name`, `place_from`, `resort_to`, `days`, `type`, `status`, `details`, `image`, `total_seat`, `date`, `price`, `last_updated`) VALUES
-(13, 'UPcom', 20, 15, '1', 'single', 'expired', 'dd', 'http://localhost/tourist_guide/upload/2018/11/01/5bdb53fc6bc4c_ab.jpg', 48, '2020-10-31', 230, '2020-10-02 00:50:04'),
-(14, 'UPcom', 10, 7, '1', 'single', '', 'dd', 'http://localhost/tourist_guide/upload/2018/11/01/5bdb53fc6bc4c_ab.jpg', 48, '2020-10-10', 230, '2020-10-02 00:50:30'),
-(15, 'Couple Package', 10, 7, '2', 'single', '', 'dhaka to sajek', '1', 8, '2020-01-10', 20000, '2020-10-02 09:28:45'),
-(16, 'Normal', 4, 10, '4', 'single', '', 'all in one', '', 40, '2020-10-10', 10000, '2020-10-02 11:05:26'),
-(17, 'single package', 7, 7, '4', 'single', '', 'Everything in one', '', 40, '2020-02-11', 10000, '2020-10-02 11:06:58'),
-(18, 'Sajek valley tour', 19, 12, '5', 'single', '', 'go to sajek valley ', 'http://digitalbd.net/project/tourist/upload/2020/10/02/5f77141f8a3b9_18271800htr1.JPG', 60, '2020-05-10', 5000, '2020-10-02 11:36:56'),
-(19, 'Mermaid Package', 20, 1, '2', 'couple', '', 'All in one', '', 3, '2020-12-05', 100000, '2020-10-02 12:05:45'),
-(20, 'fly north', 4, 15, '3', 'single', '', '', '', 40, '2020-11-03', 3000, '2020-10-02 12:32:08'),
-(21, 'dhaka to cox bazar', 20, 15, '3', 'single', 'booked', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, ', 'http://localhost/tourist_guide/upload/2020/10/02/5f77502a1dcb4_bau.jpg', 45, '2020-10-31', 300, '2020-10-02 12:54:07');
+(17, 'Single package', 20, 7, '5', 'single', '', 'Everything in one', NULL, 5, '2022-10-23', 10000, '2020-10-02 11:06:58'),
+(18, 'Sajek valley tour', 20, 12, '5', 'single', '', 'go to sajek valley ', NULL, 5, '2022-10-23', 7500, '2020-10-02 11:36:56'),
+(19, 'Mermaid Package', 20, 1, '5', 'couple', '', 'All in one', NULL, 5, '2022-10-23', 100000, '2020-10-02 12:05:45'),
+(21, 'Dhaka to Cox\'s Bazar', 20, 15, '5', 'single', 'booked', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, ', NULL, 5, '2022-10-23', 5000, '2020-10-02 12:54:07');
 
 -- --------------------------------------------------------
 
