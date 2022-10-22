@@ -104,7 +104,7 @@ if(isset($_POST['send_email'])){
 	</div>
 </section>
 <section class="contact-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7428.385075676314!2d91.97424147628575!3d21.421675843147323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc87c1b398f89%3A0x576632dc3457400!2sHotel+Prime+Park!5e0!3m2!1sen!2sbd!4v1539890225987"  frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14546.49830082091!2d89.0090976!3d24.2898401!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc1a32911db39651!2sBangladesh%20Army%20University%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sbd!4v1666450346219!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <?php
 	include("footer.php");

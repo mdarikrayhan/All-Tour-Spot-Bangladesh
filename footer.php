@@ -1,12 +1,9 @@
-<!-- footer -->
 <div class="footer-cpy p-lg-4 p-md-3 p-3 container-fluid">
 			<div class="row">
 				<div class="col-lg-6 copyrightbottom text-left">
 					<h3>
 						<a class="navbar-brand" href="index.php">ATS Bangladesh</a>
 					</h3>
-					<!-- <p>© 2018 Tour guide. All Rights Reserved
-					</p> -->
 				</div>
 				<div class="col-lg-6 copyrighttop mt-3 text-right">
 					<ul>
