@@ -1,9 +1,30 @@
 # All-Tour-Spot-Bangladesh
-This is a project for CSE-3110 Sessional
 
-Teammates Name Md Moneruzaman Mone , Gourob Roy Chomok, Mst. Bilkis Khatun , Md Arik Rayhan
+This project will help to find Travel or Tourist places. This is a project for CSE-3110 Sessional
 
-ID-20104015,20104027,20104031,20104033
+# Functionality
+<ul>
+	<li>User login and Registration option</li>
+	<li>Email marketing option or Email Subscription functionality</li>
+	<li>Fully functional admin panel</li>
+	<li>Travel Places</li>
+	<li>Hotels</li>
+	<li>Restaurants</li>
+	<li>Tour Packages</li>
+	<li>Travel Place Search</li>
+	<li>Find Travel Place by divisions</li>
+	<li>Image Gallery</li>
+	<li>Offers of option of hotels</li>
+	<li>Our Team page</li>
+	<li>Contact Us page</li>
+	<li>Nearby travel place</li>
+	<li>Nearby Hotel</li>
+	<li>Nearby Restaurants</li>
+	<li>Popular Foods functionality</li>
+	<li>Nearby Spot with travel expenses</li>
+	<li>Place counter, Hotels counter,Gallery Images counter , Tourist counter</li>
+</ul>
+
 
 ![1_Header_of_Home_Page](https://github.com/mdarikrayhan/All-Tour-Spot-Bangladesh/blob/main/upload/Demo%20Pictures%20Of%20Project/1_Header_of_Home_Page.png)
 
