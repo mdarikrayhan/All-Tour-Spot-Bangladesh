@@ -1,6 +1,6 @@
 # All-Tour-Spot-Bangladesh
 
-This project will help to find Travel or Tourist places. This is a project for CSE-3110 Sessional
+This project will help to find Travel or Tourist places.
 
 # Functionality
 <ul>
